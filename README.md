@@ -4,7 +4,7 @@ I'm Melissa Castro, I go by Melia. I have a background in sales and customer ser
 I enjoy creating an envioronment for growth & success in all areas of life.
 
 🌱 I’m currently learning full-stack software development!
-🖥 Check out my landing page / portfolio
+
 
 ### 📫 How to reach me: 
 - mmcstr8@gmail.com | www.linkedin.com/in/melia-maria-b05501153/
@@ -29,6 +29,7 @@ I enjoy creating an envioronment for growth & success in all areas of life.
 - 🏕 I love sunny days and am 100% ready for good hiking, paddle boarding, camping & outdoor adventures
 - 😄 Music, singing and spending time doing new things with my daughter absolutly light me up inside
 - ⚡ Fun fact about me: My birthday is 8/8/88 and my daughters is 11/7/11 (she was so close! lol)
+- 🖥 Check out my landing page / portfolio
 -->
 
 ### My personal mantras...
