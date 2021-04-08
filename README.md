@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 I'm Melissa Castro, I go by Melia. I have a background in sales and customer service with a new love for software development.
 
 I enjoy creating an envioronment for growth & success in all areas of life.
@@ -31,7 +31,7 @@ I enjoy creating an envioronment for growth & success in all areas of life.
 - ⚡ Fun fact about me: My birthday is 8/8/88 and my daughters is 11/7/11 (she was so close! lol)
 -->
 
-## My personal mantras...
+### My personal mantras...
 
 “I am conquering my fears and becoming stronger each day."
 
