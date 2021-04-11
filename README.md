@@ -40,3 +40,5 @@ I enjoy creating an envioronment for growth & success in all areas of life.
 
 “My potential is limitless, and I choose where to spend my energy.”
 
+"Absorb what is useful, discard what is useless and add what is specifically your own."
+
