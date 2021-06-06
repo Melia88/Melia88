@@ -7,7 +7,7 @@ I enjoy creating an envioronment for growth & success in all areas of life.
 
 
 ### 📫 How to reach me: 
-- mmcstr8@gmail.com | www.linkedin.com/in/melia-maria-b05501153/
+- mmcstr8@gmail.com | www.linkedin.com/in/melia-maria/
 
 
 ### About Me
