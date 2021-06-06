@@ -17,7 +17,7 @@ I enjoy creating an envioronment for growth & success in all areas of life.
 - 🏕 I love sunny days and am 100% ready for good hiking, paddle boarding, camping & outdoor adventures
 - 😄 Music, singing and spending time doing new things with my daughter absolutly light me up inside
 - ⚡ Fun fact about me: My birthday is 8/8/88 and my daughters is 11/7/11 (she was so close! lol)
--->
+
 
 <!--
 **Melia88/Melia88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
