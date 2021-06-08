@@ -18,7 +18,7 @@ a {
 }
 
 a:hover {
-  color: #067ded;
+  color: #4ba2e9;
   text-decoration: none;
 }
 
@@ -52,7 +52,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .back-to-top:hover {
   color: #fff;
-  background: #0678e3;
+  background: #4ba2e9;
   transition: background 0.2s ease-in-out;
 }
 
@@ -662,7 +662,7 @@ section {
 }
 
 .portfolio .portfolio-wrap .portfolio-links a:hover {
-  color: #148af9;
+  color: #4ba2e9;
 }
 
 .portfolio .portfolio-wrap:hover::before {
@@ -757,7 +757,7 @@ section {
 }
 
 .services .iconbox-blue:hover .icon path {
-  fill: #47aeff;
+  fill: #4ba2e9;
 }
 
 .services .iconbox-orange i {
@@ -852,7 +852,7 @@ section {
 }
 
 .testimonials .testimonial-item .quote-icon-left, .testimonials .testimonial-item .quote-icon-right {
-  color: #90c8fc;
+  color: #4ba2e9;
   font-size: 26px;
 }
 
@@ -1157,7 +1157,7 @@ section {
 }
 
 #footer .social-links a:hover {
-  background: #0678e3;
+  background: #4ba2e9;
   color: #fff;
   text-decoration: none;
 }
