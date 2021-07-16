@@ -3,7 +3,7 @@ I'm Melissa Castro, I go by Melia. I have a background in sales and customer ser
 
 I enjoy creating an envioronment for growth & success in all areas of life.
 
-🌱 I’m currently learning full-stack software development!
+🌱 I’m currently enjoying my new career at Western Power Sports as a full-stack web developer!
 
 
 ### 📫 How to reach me: 
