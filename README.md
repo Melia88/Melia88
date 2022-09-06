@@ -1,9 +1,9 @@
 ## Hi there 👋
-I'm Melissa Castro, I go by Melia. I have a background in sales and customer service with a new love for software development.
+I'm Melissa Castro, I go by Melia. I have a background in sales and customer service and have been in software development for a little over a year now and love it.
 
 I enjoy creating an envioronment for growth & success in all areas of life.
 
-🌱 I’m currently enjoying my new career at Western Power Sports as a full-stack web developer!
+🌱 I’m currently looking for a new position as a full-stack web developer!
 
 
 ### 📫 How to reach me: 
